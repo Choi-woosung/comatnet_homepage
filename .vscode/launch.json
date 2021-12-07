@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ComatnetApplication<comatnet>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.comatnet.ComatnetApplication",
+            "projectName": "comatnet",
+            "args": ""
+        }
+    ]
+}
